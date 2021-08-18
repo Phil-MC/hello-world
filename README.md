@@ -6,8 +6,9 @@ This is by way of experimentation with the GitHub environment
 
 Adding Pictures
 
-Picture 1 Top
-![image](https://user-images.githubusercontent.com/65187658/129779624-a257cb09-5f12-4200-9a9f-d95b96f9bc8e.png)
+![TOP_bn-880](https://user-images.githubusercontent.com/65187658/129951933-6df4d873-b50a-4fe7-b12f-f4041402a4a9.jpg)
 
-Picture 2 Bottom
-![image](https://user-images.githubusercontent.com/65187658/129779770-08fa7910-f803-4d0e-89c0-644fc04bed6e.png)
+![BOTTOM_bn-880](https://user-images.githubusercontent.com/65187658/129952395-29948465-76ec-48ac-a1b7-7e1c1e539f07.jpg)
+
+
+
