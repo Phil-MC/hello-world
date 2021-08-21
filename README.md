@@ -14,5 +14,5 @@ This side has to point towards the ground
 
 ![BOTTOM_bn-880](https://user-images.githubusercontent.com/65187658/129952395-29948465-76ec-48ac-a1b7-7e1c1e539f07.jpg)
 
-
+![BN-880_arrow](https://user-images.githubusercontent.com/65187658/130331246-c5d3bc55-be7a-4481-b202-a51ff40d57eb.jpg)
 
